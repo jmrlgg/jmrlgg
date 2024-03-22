@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+
+
+###🔭 I’m currently working on 
+Cannabis Diagnostic Tool
+VUE/Django Stack WebApp
+
+- 🌱 I’m currently learning ...
+- Photo Recognition
 
 <!--
 **jmrlgg/jmrlgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
