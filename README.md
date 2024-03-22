@@ -12,7 +12,7 @@
 
 👯 I’m looking to collaborate
 
-📫 Job Inquiries:
+📫 Job Inquiries: FrontEnd / Backend - Data Architect - Consultant - Business Management Degree 
 gglrmj@gmail.com
 
 
