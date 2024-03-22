@@ -3,7 +3,7 @@
 
 
 ### 🔭 I’m currently working on 
-- Cannabis Diagnostic Tool
+- Cannabis Interactive Diagnostic Tool
 - VUE/Django Stack WebApp
 
  ### 🌱 I’m currently learning ...
@@ -12,7 +12,10 @@
 
 👯 I’m looking to collaborate
 
-📫 Job Inquiries: FrontEnd / Backend - Data Architect - Consultant - Business Management Degree 
+📫 Job Inquiries:
+
+FrontEnd / Backend - Data Architect - Consultant - Business Management Degree
+
 gglrmj@gmail.com
 
 
