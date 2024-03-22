@@ -7,6 +7,7 @@
 - VUE/Django Stack WebApp
 
  ### 🌱 I’m currently learning ...
+- Vue.js [FUN]
 - Photo Recognition
 - Tensor
 
