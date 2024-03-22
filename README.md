@@ -10,6 +10,12 @@
 - Photo Recognition
 - Tensor
 
+👯 I’m looking to collaborate
+
+📫 Job Inquiries:
+gglrmj@gmail.com
+
+
 <!--
 **jmrlgg/jmrlgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
