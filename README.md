@@ -1,13 +1,14 @@
-## Hi there 👋
+# JAI MAESI
 
 
 
-###🔭 I’m currently working on 
-Cannabis Diagnostic Tool
-VUE/Django Stack WebApp
+### 🔭 I’m currently working on 
+- Cannabis Diagnostic Tool
+- VUE/Django Stack WebApp
 
-- 🌱 I’m currently learning ...
+ ### 🌱 I’m currently learning ...
 - Photo Recognition
+- Tensor
 
 <!--
 **jmrlgg/jmrlgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I hope everyone is well and dont forget to smile it could change someones day! 👋
+Pay it forward, Smile!
