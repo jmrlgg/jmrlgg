@@ -1,7 +1,7 @@
 # JAI MASEI
 ![jmrlgg's Stats](https://github-readme-stats.vercel.app/api?username=jmrlgg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![jmrlgg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmrlgg&theme=vue-dark&hide_border=true)
+![jmrlgg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmrlgg&theme=prussian&hide_border=false)
 
 ![jmrlgg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrlgg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
