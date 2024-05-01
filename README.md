@@ -5,7 +5,7 @@
 
 ![jmrlgg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrlgg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-
+[![jmrlgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmrlgg)](https://github.com/jmrlgg/github-readme-stats)
 ### 🔭 I’m currently working on 
 - Cannabis Interactive Diagnostic Tool
 - VUE/Django Stack WebApp
