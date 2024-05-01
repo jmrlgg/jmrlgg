@@ -5,12 +5,11 @@
 
 
 
-[![jmrlgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmrlgg&theme=vue-dark&show_icons=true#include_all_commits=true)]
+[![jmrlgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmrlgg&include_all_commits=true&theme=vue-dark&show_icons=true#include_all_commits=true)]
 
 [![Jai's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jmrlgg)]
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 ### 🔭 I’m currently working on 
 - Cannabis Interactive Diagnostic Tool
