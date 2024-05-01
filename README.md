@@ -7,7 +7,7 @@
 
 [![jmrlgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmrlgg&theme=vue-dark&show_icons=true)](https://github.com/jmrlgg/github-readme-stats)
 
-[![JaiMasei's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmrlgg&theme=vue-dark&show_icons=true)](https://github.com/jmrlgg/github-readme-stats)
+[![JaiMasei's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmrlgg)](https://github.com/jmrlgg/github-readme-stats)
 ### 🔭 I’m currently working on 
 - Cannabis Interactive Diagnostic Tool
 - VUE/Django Stack WebApp
