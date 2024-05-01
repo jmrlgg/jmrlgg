@@ -7,7 +7,7 @@
 
 [![jmrlgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmrlgg&theme=vue-dark&show_icons=true)]
 
-[![Jai's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmrlgg)]
+[![Jai's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jmrlgg)]
 
 ### 🔭 I’m currently working on 
 - Cannabis Interactive Diagnostic Tool
