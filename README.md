@@ -5,9 +5,11 @@
 
 - 👨‍💻 Visual Portfolio [jeremylmassey.com](jeremylmassey.com)
 
-- 📝 I regularly write articles on [blog.jeremymassey.net](blog.jeremymassey.net)
+- 📝 I irregularly write articles on [blog.jeremymassey.net](blog.jeremymassey.net)
 
 - ⚡ Fun fact **I really believe that a smile goes a long way!**
+
+- **Open to Job Offers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
