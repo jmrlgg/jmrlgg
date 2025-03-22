@@ -1,7 +1,7 @@
 # JAI MASEI
 
 
-![jmrlgg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmrlgg&theme=prussian&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jmrlgg&card_width=457&card_height=170)](https://git.io/streak-stats)
 
 
 
